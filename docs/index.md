@@ -3,11 +3,9 @@ layout: cv
 title: LaRena Allen's Resume
 ---
 # LaRena (Waddell) Allen
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
 <a href="larenajallen@gmail.com">larenajallen@gmail.com</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="www.linkedin.com/in/larenajallen">LinkedIn</a>
 | <a href="https://github.com/larenawad/larenawad_resume.git">GitHub</a>
 </div>
@@ -49,6 +47,13 @@ __Grand Targhee Resort__, Alta, WY
 - Trained and supervised other employees on the rental team to accurately regulate a cash register, set up equipment efficiently, and supply proper recommendations to customers
 - Instructed customers to use correct techniques in skiing and mountain biking, mitigate injuries and damage to equipment, and advance skills in assorted activities such as racing, powder skiing, downhill biking, and cross-country mountain biking
 
+
+## Tools
+
+- Python
+- R
+- SQL
+- Git/GitHub
 
 
 ## Service History
