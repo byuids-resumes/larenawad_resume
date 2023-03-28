@@ -1,85 +1,66 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: LaRena Allen's Resume
 ---
-# Brigham Young
+# LaRena (Waddell) Allen
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="larenajallen@gmail.com">larenajallen@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="www.linkedin.com/in/larenajallen">LinkedIn</a>
+| <a href="https://github.com/larenawad/larenawad_resume.git">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+### BS, Mathematical Science - Applied Mathematics
+`Jul 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- GPA – 3.56
+- Data Science Certificate, Machine Learning Certificate
+- Relevant Courses: Data Science Programming, Data Wrangling and Visualization, Object-Oriented Programming, Programming with Functions, Probability and Statistics, Bayesian Statistics
+- Projects: Solved systems of equations to locate GPS satellite receivers in Python. Analyzed landslide data to understand how, where, and when landslides can occur and the correlation of fatalities in R. Implemented machine learning with residential dwelling data to predict year built with 90 percent accuracy in Python
 
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Work Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Data Wrangling and Visualization Teaching Assistant
+
+`Jan 2023 - Apr 2023`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Accelerated understanding of tidying data, manipulating strings, and creating professional visualizations for 10+ students weekly by meeting one-on-one to teach essential concepts and answer questions
+- Provided feedback on how to improve students’ homework and projects by analyzing coding tasks, inspecting errors, and developing unique solutions for various obstacles faced by students in their work
+- Partnered with and reported to the professor regularly to discuss course curriculum, learning outcomes, and expectations. Identified and pitched new ideas and materials for teaching students difficult but important skills
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Ski and Bike Technician
 
+`Jul 2019 - Apr 2021`
+__Grand Targhee Resort__, Alta, WY
+
+- Advised customers on the most suitable equipment for their skill levels, physical information, and style preferences. Adjusted, tuned, and repaired skis and mountain bikes for customers based on safety guidelines and customer needs
+- Trained and supervised other employees on the rental team to accurately regulate a cash register, set up equipment efficiently, and supply proper recommendations to customers
+- Instructed customers to use correct techniques in skiing and mountain biking, mitigate injuries and damage to equipment, and advance skills in assorted activities such as racing, powder skiing, downhill biking, and cross-country mountain biking
+
+
+
+## Service History
+
+### Tutor
+
+`Apr 2021 - Jul 2021`
+__BYU-I Russian Conversation Center__, Rexburg, ID
+
+- Designed and implemented customized teaching methods to meet individual student needs and learning styles
+- Monitored student progress and provided regular feedback on areas of strength and areas for improvement
+- Developed strong interpersonal communication skills to build positive relationships with students and create a supportive learning environment
 
 
 <!-- ### Footer
